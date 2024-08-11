@@ -1,4 +1,4 @@
-- This repository where java 8 new features with explanation and code example will be available 
+- This is a repository where java 8 new features with explanation and code example will be available 
 
 							----- JAVA 8 Features -----
 
